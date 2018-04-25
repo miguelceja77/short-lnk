@@ -1,3 +1,3 @@
-Short Lnk
+# Short Lnk
 
-Esta es aplicación de short-lnk con el framework de meteor y react
+Esta es una aplicación para acortar links hecha en Meteor y React.
